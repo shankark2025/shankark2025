@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Data Analytics, React and Laravel 
+- 🌱 I’m currently learning Data Analytics, React, and Laravel 
 - 👯 I’m looking to collaborate on Data Analytics and Web Development
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Data Analytics
