@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **shankark2025/shankark2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Data Analytics
 - 📫 How to reach me: shankar.kandregula@gmail.com
--->
 
 
 ### 🛠️ My Tech Stack
