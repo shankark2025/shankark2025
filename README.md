@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Data Analytics, React, and Laravel 
-- 👯 I’m looking to collaborate on Data Analytics and Web Development
+- 🌱 I’m currently learning Data Analytics
+- 👯 I’m looking to collaborate on Data Analytics
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Data Analytics
 - 📫 How to reach me: shankar.kandregula@gmail.com
