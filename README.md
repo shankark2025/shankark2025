@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 
 Here are a few technologies I've been working with recently:
 
-* **Frontend:** HTML5, CSS3, JavaScript, React
-* **Backend:** PHP, laravel, Python
-* **Database:** MongoDB, SQL
-* **Tools:** Git, Docker, VS Code
-
+* **Data Analytics** MS Excel, Power BI, Python, SQL
 ---
 
 ### 🔗 Connect with me:
